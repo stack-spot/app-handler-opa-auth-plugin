@@ -14,3 +14,4 @@ Exemplo:
       security:
         - jwtAuth: []
 ```
+
